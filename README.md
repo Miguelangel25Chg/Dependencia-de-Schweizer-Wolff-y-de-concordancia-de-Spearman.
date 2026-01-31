@@ -23,7 +23,7 @@ Valores obtenidos directamente de la simulación solicitada:
 
 ---
 
-## 4. Validación de Alta Precisión (Cierre de Autor)
+## 4. Validación de Alta Precisión 
 Para confirmar la estabilidad del modelo y reducir el error local de la aproximación de Euler, se escaló la simulación a **$10^7$ puntos** (Simulación Estricta):
 
 | Métrica | Convergencia Final ($n=10,000,000$) |
